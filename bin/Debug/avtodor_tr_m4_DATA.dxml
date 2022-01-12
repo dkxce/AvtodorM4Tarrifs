@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PayWays xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <url>https://avtodor-tr.ru/ru/platnye-uchastki/fares/m4/</url>
+  <grabbed>2022-01-12T11:27:03.6104981+03:00</grabbed>
+  <createdBy>Avtodor-Tr M4 Grabber by milokz@gmail.com</createdBy>
+  <payway id="1" name="ПВП 71 км">
+    <tarrifs time="NIGHT" cost="210 210 230 230 250 225 480 432" days="6,7,1" />
+    <tarrifs time="DAY" cost="210 210 230 230 250 225 480 432" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="170 170 230 230 250 225 480 432" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="170 170 230 230 250 225 480 432" days="2,3,4,5" />
+  </payway>
+  <payway id="1А" name="ПВП 62 км">
+    <tarrifs time="NIGHT" cost="110 110 120 120 150 135 290 261" days="6,7,1" />
+    <tarrifs time="DAY" cost="110 110 120 120 150 135 290 261" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="100 100 120 120 150 135 290 261" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="100 100 120 120 150 135 290 261" days="2,3,4,5" />
+  </payway>
+  <payway id="2" name="ПВП 133 км">
+    <tarrifs time="NIGHT" cost="300 300 310 310 360 324 570 513" days="6,7,1" />
+    <tarrifs time="DAY" cost="300 300 310 310 360 324 570 513" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="240 240 310 310 360 324 570 513" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="240 240 310 310 360 324 570 513" days="2,3,4,5" />
+  </payway>
+  <payway id="3" name="ПВП 228 км">
+    <tarrifs time="NIGHT" cost="210 210 240 240 320 288 500 450" days="6,7,1" />
+    <tarrifs time="DAY" cost="210 210 240 240 320 288 500 450" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="160 160 240 240 320 288 500 450" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="160 160 240 240 320 288 500 450" days="2,3,4,5" />
+  </payway>
+  <payway id="4" name="ПВП 322 км">
+    <tarrifs time="NIGHT" cost="210 210 240 240 320 288 500 450" days="6,7,1" />
+    <tarrifs time="DAY" cost="210 210 240 240 320 288 500 450" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="160 160 240 240 320 288 500 450" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="160 160 240 240 320 288 500 450" days="2,3,4,5" />
+  </payway>
+  <payway id="5" name="ПВП 339 км">
+    <tarrifs time="NIGHT" cost="230 230 240 240 300 270 550 495" days="6,7,1" />
+    <tarrifs time="DAY" cost="230 230 240 240 300 270 550 495" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="200 200 240 240 300 270 550 495" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="200 200 240 240 300 270 550 495" days="2,3,4,5" />
+  </payway>
+  <payway id="5А" name="ПВП 355 км в Москву">
+    <tarrifs time="NIGHT" cost="75 75 90 90 110 99 220 198" days="6,7,1" />
+    <tarrifs time="DAY" cost="75 75 90 90 110 99 220 198" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="60 60 90 90 110 99 220 198" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="60 60 90 90 110 99 220 198" days="2,3,4,5" />
+  </payway>
+  <payway id="5Б" name="ПВП 380 км из Москвы">
+    <tarrifs time="NIGHT" cost="90 90 100 100 130 117 260 234" days="6,7,1" />
+    <tarrifs time="DAY" cost="90 90 100 100 130 117 260 234" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="80 80 100 100 130 117 260 234" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="80 80 100 100 130 117 260 234" days="2,3,4,5" />
+  </payway>
+  <payway id="5В" name="ПВП 380 км в Москву">
+    <tarrifs time="NIGHT" cost="130 130 150 150 200 180 380 342" days="6,7,1" />
+    <tarrifs time="DAY" cost="130 130 150 150 200 180 380 342" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="110 110 150 150 200 180 380 342" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="110 110 150 150 200 180 380 342" days="2,3,4,5" />
+  </payway>
+  <payway id="5Г" name="ПВП 401 км из Москвы">
+    <tarrifs time="NIGHT" cost="50 50 60 60 70 63 150 135" days="6,7,1" />
+    <tarrifs time="DAY" cost="50 50 60 60 70 63 150 135" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="50 50 60 60 70 63 150 135" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="50 50 60 60 70 63 150 135" days="2,3,4,5" />
+  </payway>
+  <payway id="5Д" name="ПВП 401 км в Москву">
+    <tarrifs time="NIGHT" cost="170 170 180 180 260 234 500 450" days="6,7,1" />
+    <tarrifs time="DAY" cost="170 170 180 180 260 234 500 450" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="150 150 180 180 260 234 500 450" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="150 150 180 180 260 234 500 450" days="2,3,4,5" />
+  </payway>
+  <payway id="6" name="ПВП 416**/460*** км">
+    <tarrifs time="NIGHT" cost="170 170 180 180 220 198 450 405" days="6,7,1" />
+    <tarrifs time="DAY" cost="170 170 180 180 220 198 450 405" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="110 110 180 180 220 198 450 405" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="110 110 180 180 220 198 450 405" days="2,3,4,5" />
+  </payway>
+  <payway id="7" name="ПВП 515 км">
+    <tarrifs time="NIGHT" cost="90 90 100 100 150 135 260 234" days="6,7,1" />
+    <tarrifs time="DAY" cost="90 90 100 100 150 135 260 234" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="60 60 100 100 150 135 260 234" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="60 60 100 100 150 135 260 234" days="2,3,4,5" />
+  </payway>
+  <payway id="8" name="ПВП 545 км">
+    <tarrifs time="NIGHT" cost="100 100 110 110 130 117 220 198" days="6,7,1" />
+    <tarrifs time="DAY" cost="100 100 110 110 130 117 220 198" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="70 70 110 110 130 117 220 198" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="70 70 110 110 130 117 220 198" days="2,3,4,5" />
+  </payway>
+  <payway id="9" name="ПВП 545 км">
+    <tarrifs time="NIGHT" cost="150 150 160 160 180 162 370 333" days="6,7,1" />
+    <tarrifs time="DAY" cost="150 150 160 160 180 162 370 333" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="100 100 160 160 180 162 370 333" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="100 100 160 160 180 162 370 333" days="2,3,4,5" />
+  </payway>
+  <payway id="10" name="ПВП 620 км">
+    <tarrifs time="NIGHT" cost="150 150 160 160 180 162 370 333" days="6,7,1" />
+    <tarrifs time="DAY" cost="150 150 160 160 180 162 370 333" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="100 100 160 160 180 162 370 333" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="100 100 160 160 180 162 370 333" days="2,3,4,5" />
+  </payway>
+  <payway id="11" name="ПВП 636 км">
+    <tarrifs time="NIGHT" cost="370 370 390 390 410 369 920 828" days="6,7,1" />
+    <tarrifs time="DAY" cost="370 370 390 390 410 369 920 828" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="330 330 390 390 410 369 920 828" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="330 330 390 390 410 369 920 828" days="2,3,4,5" />
+  </payway>
+  <payway id="11А" name="ПВП 672 км****">
+    <tarrifs time="NIGHT" cost="240 150 250 190 270 220 600 450" days="6,7,1" />
+    <tarrifs time="DAY" cost="240 150 250 190 270 220 600 450" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="210 140 250 190 270 220 600 450" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="210 140 250 190 270 220 600 450" days="2,3,4,5" />
+  </payway>
+  <payway id="12" name="ПВП 1093 км">
+    <tarrifs time="NIGHT" cost="70 70 95 95 120 108 250 225" days="6,7,1" />
+    <tarrifs time="DAY" cost="70 70 95 95 120 108 250 225" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="60 60 95 95 120 108 250 225" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="60 60 95 95 120 108 250 225" days="2,3,4,5" />
+  </payway>
+  <payway id="13" name="ПВП 1184 км">
+    <tarrifs time="NIGHT" cost="160 160 220 220 290 261 600 540" days="6,7,1" />
+    <tarrifs time="DAY" cost="160 160 220 220 290 261 600 540" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="140 140 220 220 290 261 600 540" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="140 140 220 220 290 261 600 540" days="2,3,4,5" />
+  </payway>
+  <payway id="14" name="ПВП 1223 км">
+    <tarrifs time="NIGHT" cost="230 230 310 310 420 378 750 675" days="6,7,1" />
+    <tarrifs time="DAY" cost="230 230 310 310 420 378 750 675" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="200 200 310 310 420 378 750 675" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="200 200 310 310 420 378 750 675" days="2,3,4,5" />
+  </payway>
+  <payway id="ALL" name="ПВП 71-1223 км******">
+    <tarrifs time="NIGHT" cost="2650 2650 2985 2985 3650 3285 6790 6111" days="6,7,1" />
+    <tarrifs time="DAY" cost="2650 2650 2985 2985 3650 3285 6790 6111" days="6,7,1" />
+    <tarrifs time="NIGHT" cost="2100 2100 2985 2985 3650 3285 6790 6111" days="2,3,4,5" />
+    <tarrifs time="DAY" cost="2100 2100 2985 2985 3650 3285 6790 6111" days="2,3,4,5" />
+  </payway>
+</PayWays>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSegment>
+  <Segment id="1А"><has>ПВП 62 км</has></Segment>
+  <Segment id="1"><has>ПВП 71 км</has></Segment>
+  <Segment id="2"><has>ПВП 133 км</has></Segment>
+  <Segment id="3"><has>ПВП 228 км</has></Segment>
+  <Segment id="4"><has>ПВП 322 км</has></Segment>
+  <Segment id="5"><has>ПВП 339 км</has></Segment>
+  <Segment id="5А"><has>ПВП 355 км в Москву</has></Segment>
+  <Segment id="5Б"><has>ПВП 380 км из Москвы</has></Segment>
+  <Segment id="5В"><has>ПВП 380 км в Москву</has></Segment>
+  <Segment id="5Г"><has>ПВП 401 км из Москвы</has></Segment>
+  <Segment id="5Д"><has>ПВП 401 км в Москву</has></Segment>
+  <Segment id="6"><has>ПВП 416</has></Segment>
+  <Segment id="7"><has>ПВП 515 км</has></Segment>
+  <Segment id="8"><has>517 - 544 км</has></Segment>
+  <Segment id="9"><has>544 - 589 км</has></Segment>
+  <Segment id="10"><has>ПВП 620 км</has></Segment>
+  <Segment id="11"><has>ПВП 636 км</has></Segment>  
+  <Segment id="11*"><has>ПВП 636 км*</has></Segment>  
+  <Segment id="11А"><has>ПВП 672 км</has></Segment>
+  <Segment id="12"><has>ПВП 1093 км</has></Segment>
+  <Segment id="13"><has>ПВП 1184 км</has></Segment>
+  <Segment id="14"><has>ПВП 1223 км</has></Segment>
+  <Segment id="ALL"><has>ПВП 62-1223 км</has></Segment>
+  <Segment id="ALL"><has>ПВП 71-1223 км</has></Segment>
+</ArrayOfSegment>
