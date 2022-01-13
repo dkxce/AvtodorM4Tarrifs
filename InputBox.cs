@@ -275,7 +275,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { label, digitBox, buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, label.Right + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -333,7 +333,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { label, textBox, buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, label.Right + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -391,7 +391,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { label, textBox, buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, label.Right + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -476,7 +476,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { label, this._values.Length == 1 ? (Control)textBox : (Control)comboBox, labed, testBox, buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, label.Right + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -580,7 +580,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { label, comboBox, buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, label.Right + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -649,7 +649,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { label, textBox, buttonAddit, buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, label.Right + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -715,7 +715,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { label, textBox, buttonAddit, buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, label.Right + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -780,7 +780,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { label, textBox, buttonAddit, buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, label.Right + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -1148,7 +1148,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { label, dtBox, buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, label.Right + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -1313,7 +1313,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, lRight + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -1417,7 +1417,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { picture });
             form.ClientSize = new Size(Math.Max(defWidth, lRight + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = Buttons[0];
@@ -1495,7 +1495,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, lRight + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -1578,7 +1578,7 @@ namespace System.Windows.Forms
             form.Controls.AddRange(new Control[] { buttonOk, buttonCancel, picture });
             form.ClientSize = new Size(Math.Max(defWidth, lRight + 10), form.ClientSize.Height);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.AcceptButton = buttonOk;
@@ -2706,7 +2706,7 @@ namespace System.Windows.Forms
             form.Text = title;
             form.ClientSize = new Size(defWidth, 107);
             form.FormBorderStyle = FormBorderStyle.FixedDialog;
-            form.StartPosition = FormStartPosition.CenterParent;
+            form.StartPosition = FormStartPosition.CenterScreen;
             form.MinimizeBox = false;
             form.MaximizeBox = false;
             form.ClientSize = new Size(500, 400);
@@ -2832,7 +2832,7 @@ namespace System.Windows.Forms
             form.Controls.Add(panel4);
             form.Controls.Add(panel1);
             form.Controls.Add(panel2);
-            form.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            form.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 
             {
                 //button1.Text = fullview ? pCancel_Text : pOk_Text;

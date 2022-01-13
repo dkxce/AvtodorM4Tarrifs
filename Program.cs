@@ -16,7 +16,9 @@ namespace avtodor_tr_m4
         public static string version = "12.01.2022";
 
         public static void Main()
-        {            
+        {
+            Console.OutputEncoding = Encoding.UTF8; 
+
             Console.WriteLine("Avtodor-Tr M4 Grabber by milokz@gmail.com");
             Console.WriteLine("** version " + version + " **");
             Console.WriteLine("...");

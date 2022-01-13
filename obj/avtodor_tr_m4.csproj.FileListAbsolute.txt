@@ -35,3 +35,8 @@ D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML
 D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220110H\PLUGIN_Avtodor_TR_M4_[Sources]_20210426H\bin\Debug\avtodor_tr_m4.exe
 D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220110H\PLUGIN_Avtodor_TR_M4_[Sources]_20210426H\bin\Debug\avtodor_tr_m4.pdb
 D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220110H\PLUGIN_Avtodor_TR_M4_[Sources]_20210426H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_Avtodor_TR_M4_[Sources]_20220113H\obj\Debug\avtodor_tr_m4.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_Avtodor_TR_M4_[Sources]_20220113H\obj\Debug\avtodor_tr_m4.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_Avtodor_TR_M4_[Sources]_20220113H\bin\Debug\avtodor_tr_m4.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_Avtodor_TR_M4_[Sources]_20220113H\bin\Debug\avtodor_tr_m4.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_Avtodor_TR_M4_[Sources]_20220113H\obj\Debug\ResolveAssemblyReference.cache
